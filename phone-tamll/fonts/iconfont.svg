@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="mulu" unicode="&#58912;" d="M284.4 768H1024v-85.3H284.4V768z m0-341.3H1024v-85.3H284.4V426.7z m0-341.4H1024V0H284.4v85.3zM0 768h170.7v-85.3H0V768z m0-341.3h170.7v-85.3H0V426.7z m0-341.4h170.7V0H0v85.3z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="sousuo" unicode="&#58999;" d="M424.478738 49.491913a423.249947 423.249947 0 1 0 300.37093 722.665152 423.249947 423.249947 0 0 0-300.37093-722.665152z m0 783.899863a361.059512 361.059512 0 1 1 255.656621-105.607689A359.694189 359.694189 0 0 1 424.478738 833.255243zM979.550564-128l-314.775082 314.024154 44.441244 44.372979L1023.991808-83.627022l-44.441244-44.372978z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
